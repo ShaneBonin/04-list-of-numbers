@@ -29,5 +29,6 @@ def print_each_number_and_its_square():
     numss = int(numss)
     print ("The square of",number,"is",(numss))
     
+    
 
 
