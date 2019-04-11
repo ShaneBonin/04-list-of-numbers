@@ -28,5 +28,6 @@ def print_each_number_and_its_square():
     numss = math.pow(number,2)
     numss = int(numss)
     print ("The square of",number,"is",(numss))
+    
 
 
